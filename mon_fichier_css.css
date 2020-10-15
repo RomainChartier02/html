@@ -1,17 +1,65 @@
-html {
-    background-color: blue;
-    font-size: 20px;
-  }
-  
-  ul {
-    background: yellow;
-    padding: 10px;
-    border: 1px solid black;
-  }
-  
-  li {
-    margin-left: 20px;
-  }
-  h1{
-    color: red;
-  }
+.time {
+  border:0px;
+  vertical-align: top;
+  position: relative;
+  top: -13px;
+  font-weight: lighter;
+  text-align: right;
+}
+.min5 {
+  height: 5px;
+}
+.min10 {
+  height: 10px;
+}
+.min15 {
+  height: 15px;
+}
+.min20 {
+  height: 20px;
+}
+.min25 {
+  height: 25px;
+}
+.min30 {
+  height: 30px;
+}
+.min35 {
+  height: 35px;
+}
+.min40 {
+  height: 40px;
+}
+.min45 {
+  height: 45px;
+}
+.min50 {
+  height: 50px;
+}
+.min55 {
+  height: 55px;
+}
+.min60 {
+  height: 60px;
+}
+.min65 {
+  height: 65px;
+}
+.min70 {
+  height: 70px;
+}
+.yellow{
+  background-color: yellow;
+}
+.white{
+  background-color: white;
+}
+.red{
+  background-color: lightcoral;
+}
+.blue{
+  background-color: skyblue;
+}
+.pause{
+  background-color: white;
+}
