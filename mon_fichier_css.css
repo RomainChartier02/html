@@ -63,3 +63,9 @@
 .pause{
   background-color: white;
 }
+td{
+  text-align: center;
+}
+th{
+  font-style: bold;
+}
